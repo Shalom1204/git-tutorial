@@ -1,4 +1,5 @@
 # Git教程
 
-  -feature-B
+  - feature-B
   - fix-B
+  - feeature-C
